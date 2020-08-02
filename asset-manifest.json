@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tarot/static/css/main.286f35b3.chunk.css",
+    "main.js": "/tarot/static/js/main.6b2dddf5.chunk.js",
+    "main.js.map": "/tarot/static/js/main.6b2dddf5.chunk.js.map",
+    "runtime-main.js": "/tarot/static/js/runtime-main.0e06f907.js",
+    "runtime-main.js.map": "/tarot/static/js/runtime-main.0e06f907.js.map",
+    "static/js/2.818bb27c.chunk.js": "/tarot/static/js/2.818bb27c.chunk.js",
+    "static/js/2.818bb27c.chunk.js.map": "/tarot/static/js/2.818bb27c.chunk.js.map",
+    "index.html": "/tarot/index.html",
+    "precache-manifest.6dd2c620291982b9f5ada28a6fe2b94d.js": "/tarot/precache-manifest.6dd2c620291982b9f5ada28a6fe2b94d.js",
+    "service-worker.js": "/tarot/service-worker.js",
+    "static/css/main.286f35b3.chunk.css.map": "/tarot/static/css/main.286f35b3.chunk.css.map",
+    "static/js/2.818bb27c.chunk.js.LICENSE.txt": "/tarot/static/js/2.818bb27c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/tarot/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e06f907.js",
+    "static/js/2.818bb27c.chunk.js",
+    "static/css/main.286f35b3.chunk.css",
+    "static/js/main.6b2dddf5.chunk.js"
+  ]
+}
